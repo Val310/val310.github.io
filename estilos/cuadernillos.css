@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+}
+#subtitulo{
+    text-align: center;
+    font-family: monospace;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+li{
+    text-align: center;
+}
+.logo{
+    float: center;
+    display: block;
+    text-align: center;
+}

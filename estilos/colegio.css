@@ -1,0 +1,20 @@
+#subtitulo{
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+    font-family: monospace;
+}
+#texto{
+    text-align: center;
+    color: grey;
+    font-family: monospace;
+    background-color: aliceblue;
+}
+#img1{
+    display: inline-block;
+    float: right;
+}
+#img2{
+    display: inline-block;
+    float: left;
+}

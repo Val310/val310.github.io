@@ -1,0 +1,24 @@
+#titulo{
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+}
+#subtitulo{
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+    font-family: sans-serif;
+}
+#texto{
+    text-align: center;
+    color: black;
+    background-color: darkgrey;
+    font-family: monospace;
+}
+.logos{
+    float: center;
+    display: block;
+    text-align: center;
+}

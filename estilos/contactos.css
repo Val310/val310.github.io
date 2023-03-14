@@ -1,0 +1,17 @@
+#texto{
+    text-align: center;
+    color: black;
+    background-color: darkgrey;
+    font-family: monospace;
+}
+.logo{
+    float: center;
+    display: block;
+    text-align: center;
+}
+#subtitulo{
+    text-align: center;
+    background-color: skyblue;
+    font-family: monospace;
+    font-size: 20px;
+}

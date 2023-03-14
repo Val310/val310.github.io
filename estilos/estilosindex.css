@@ -1,0 +1,47 @@
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo{
+    display:inline-block;
+    width: 60%;
+    float: center;
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    float: right;
+}
+#ul{
+    margin: 30px;
+}
+#barra{
+    clear: both;
+    text-align: center;
+    overflow: none;
+}
+.menu{
+    display: inline-block;
+    width: 15%;
+    background-color: aliceblue;
+    font-size: 20px;
+    border: solid;
+}
+#marco{
+    width: 98%;
+    padding: 8px;
+    height: 400px;
+    
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+    background-color: aliceblue;
+    font-family: monospace;
+    
+}

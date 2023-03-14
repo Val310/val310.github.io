@@ -1,0 +1,26 @@
+#subtitulo{
+    color: white;
+    background-color: skyblue;
+    text-align: center;
+    font-family: monospace;
+}
+#texto{
+    text-align: center;
+    font-family: monospace;
+    color: grey;
+    background-color: aliceblue;
+}
+#img1{
+    display: inline-block;
+    float: right;
+    
+}
+#img2{
+    display: inline-block;
+    float: left;
+}
+.imagen{
+    float: center;
+    display: block;
+    text-align: center;
+}
